@@ -1,7 +1,8 @@
 ### A Group
 
-
 The Fall 
+
+Bacurau
 
 Birds of Passage
 
@@ -62,3 +63,17 @@ GoodTime
 Marriage Story
 
 Ash is Purest White
+
+Once upon a time in Mumbai
+
+Nayakan (1987)
+
+Thalapathi (1991)
+
+Brazil
+
+Heart of Glass
+
+Inherant Vice
+
+The Green Knight
