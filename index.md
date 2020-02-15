@@ -1,8 +1,5 @@
 ![](/images/Red_Spirit_Films.png)
 
-
-A Group
-
 The Fall 
 
 Bacurau
@@ -20,8 +17,6 @@ Elite Squad
 Live and Die in LA
 
 Bad Times at the El Royal
-
-B Group
 
 Year of the Dragon (1989)
 
