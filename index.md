@@ -1,4 +1,4 @@
-### A Group
+A Group
 
 The Fall 
 
@@ -12,13 +12,13 @@ Roma (2018)
 
 Return to Paradise (1998)
 
-Elite Squad #1
+Elite Squad
 
 Live and Die in LA
 
 Bad Times at the El Royal
 
-### B Group
+B Group
 
 Year of the Dragon (1989)
 
