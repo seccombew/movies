@@ -1,2 +1,4 @@
 remote_theme: jekyll/minima
 title: M o v i e s
+
+theme: jekyll-theme-minimal
