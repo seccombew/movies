@@ -34,14 +34,6 @@ Perpetual Grace Limited
 
 Aguierre, the Wrath of God
 
-Apocolypse Now
-
-Platoon
-
-We Own the Night
-
-Arlington Road
-
 Beyond Outrage
 
 Driver
@@ -57,8 +49,6 @@ The Lighthouse
 HighLife
 
 GoodTime
-
-Marriage Story
 
 Ash is Purest White
 
